@@ -59,4 +59,4 @@ Contributions to improve this experiment or expand it with additional features (
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
+This project is licensed under the GPL-3.0 license. See the `LICENSE` file for more information.
